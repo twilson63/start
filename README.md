@@ -4,9 +4,9 @@ Dynamic Atomic NFTs are powerful mechanisms that connect together three Arweave 
 
 ``` 
 SmartWeaveContract(
-	  PermawebApp(
-			Digital Asset
-		)
+  PermawebApp(
+    Digital Asset
+  )
 )
 ```
 
