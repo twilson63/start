@@ -21,8 +21,10 @@
   // otherwise generate one
 
   const contract = WarpWebFactory.memCachedBased(arweave)
+    // remember to comment this out when deploying to production
     .useArweaveGateway()
     .build()
+    // end
     .contract(CONTRACT);
 
   function visits() {
